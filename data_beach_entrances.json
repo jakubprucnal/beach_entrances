@@ -1,7 +1,7 @@
 [
     {
-       "Column2": null,
-     "wejscie": 1,
+     "Column2": null,
+     "wejscie": "1",
      "ulica": "Piaskowa",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -9,8 +9,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 2,
+     "Column2": null,
+     "wejscie": "2",
      "ulica": "Piaskowa",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -18,8 +18,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 3,
+     "Column2": null,
+     "wejscie": "3",
      "ulica": "Piaskowa",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -27,8 +27,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 4,
+     "Column2": null,
+     "wejscie": "4",
      "ulica": "Piaskowa",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -36,8 +36,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 5,
+     "Column2": null,
+     "wejscie": "5",
      "ulica": "Piaskowa",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -45,8 +45,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 6,
+     "Column2": null,
+     "wejscie": "6",
      "ulica": "Bursztynowa",
      "nr_budynku": 2,
      "miejscowosc": "Krynica Morska",
@@ -54,8 +54,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 7,
+     "Column2": null,
+     "wejscie": "7",
      "ulica": "Bursztynowa",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -63,8 +63,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 8,
+     "Column2": null,
+     "wejscie": "8",
      "ulica": "Piaskowa",
      "nr_budynku": 6,
      "miejscowosc": "Krynica Morska",
@@ -72,8 +72,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 9,
+     "Column2": null,
+     "wejscie": "9",
      "ulica": "Piaskowa",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -81,8 +81,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 10,
+     "Column2": null,
+     "wejscie": "10",
      "ulica": "Słoneczna",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -90,8 +90,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 11,
+     "Column2": null,
+     "wejscie": "11",
      "ulica": "Słoneczna",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -99,8 +99,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 12,
+     "Column2": null,
+     "wejscie": "12",
      "ulica": "Słoneczna",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -108,8 +108,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 13,
+     "Column2": null,
+     "wejscie": "13",
      "ulica": "Słoneczna",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -117,8 +117,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 14,
+     "Column2": null,
+     "wejscie": "14",
      "ulica": "Słoneczna",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -126,8 +126,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 15,
+     "Column2": null,
+     "wejscie": "15",
      "ulica": "Słoneczna",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -135,8 +135,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 16,
+     "Column2": null,
+     "wejscie": "16",
      "ulica": "Słoneczna",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -144,8 +144,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 17,
+     "Column2": null,
+     "wejscie": "17",
      "ulica": "Słoneczna",
      "nr_budynku": 1,
      "miejscowosc": "Krynica Morska",
@@ -153,8 +153,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 18,
+     "Column2": null,
+     "wejscie": "18",
      "ulica": "Słoneczna",
      "nr_budynku": 1,
      "miejscowosc": "Krynica Morska",
@@ -162,8 +162,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 19,
+     "Column2": null,
+     "wejscie": "19",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -171,8 +171,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 20,
+     "Column2": null,
+     "wejscie": "20",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -180,8 +180,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 21,
+     "Column2": null,
+     "wejscie": "21",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": 1,
      "miejscowosc": "Krynica Morska",
@@ -189,8 +189,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 22,
+     "Column2": null,
+     "wejscie": "22",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": 1,
      "miejscowosc": "Krynica Morska",
@@ -198,8 +198,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 23,
+     "Column2": null,
+     "wejscie": "23",
      "ulica": "Żołnierzy",
      "nr_budynku": 12,
      "miejscowosc": "Krynica Morska",
@@ -207,8 +207,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 24,
+     "Column2": null,
+     "wejscie": "24",
      "ulica": "Janusza Korczaka",
      "nr_budynku": 7,
      "miejscowosc": "Krynica Morska",
@@ -216,8 +216,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 25,
+     "Column2": null,
+     "wejscie": "25",
      "ulica": "Janusza Korczaka",
      "nr_budynku": 5,
      "miejscowosc": "Krynica Morska",
@@ -225,8 +225,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 26,
+     "Column2": null,
+     "wejscie": "26",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -234,8 +234,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 27,
+     "Column2": null,
+     "wejscie": "27",
      "ulica": "Bałtycka",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -243,8 +243,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 28,
+     "Column2": null,
+     "wejscie": "28",
      "ulica": "Bałtycka",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -252,8 +252,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 29,
+     "Column2": null,
+     "wejscie": "29",
      "ulica": "Teleekspresu",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -261,8 +261,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 30,
+     "Column2": null,
+     "wejscie": "30",
      "ulica": "Marynarzy",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -270,8 +270,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 31,
+     "Column2": null,
+     "wejscie": "31",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -279,8 +279,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 32,
+     "Column2": null,
+     "wejscie": "32",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -288,8 +288,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 33,
+     "Column2": null,
+     "wejscie": "33",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -297,8 +297,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 34,
+     "Column2": null,
+     "wejscie": "34",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -306,8 +306,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 35,
+     "Column2": null,
+     "wejscie": "35",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -315,8 +315,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 36,
+     "Column2": null,
+     "wejscie": "36",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -324,8 +324,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 37,
+     "Column2": null,
+     "wejscie": "37",
      "ulica": "Drogowców",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -333,8 +333,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 38,
+     "Column2": null,
+     "wejscie": "38",
      "ulica": "Drogowców",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -342,8 +342,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 39,
+     "Column2": null,
+     "wejscie": "39",
      "ulica": "Drogowców",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -351,8 +351,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 40,
+     "Column2": null,
+     "wejscie": "40",
      "ulica": "Drogowców",
      "nr_budynku": null,
      "miejscowosc": "Krynica Morska",
@@ -360,8 +360,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 41,
+     "Column2": null,
+     "wejscie": "41",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Skowronki",
@@ -369,8 +369,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 42,
+     "Column2": null,
+     "wejscie": "42",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Skowronki",
@@ -378,8 +378,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 43,
+     "Column2": null,
+     "wejscie": "43",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Skowronki",
@@ -387,8 +387,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 44,
+     "Column2": null,
+     "wejscie": "44",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Skowronki",
@@ -396,8 +396,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 45,
+     "Column2": null,
+     "wejscie": "45",
      "ulica": "Rybacka",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -405,8 +405,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 46,
+     "Column2": null,
+     "wejscie": "46",
      "ulica": "Rybacka",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -414,8 +414,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 47,
+     "Column2": null,
+     "wejscie": "47",
      "ulica": "Rybacka",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -423,8 +423,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 48,
+     "Column2": null,
+     "wejscie": "48",
      "ulica": "Rybacka",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -432,8 +432,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 49,
+     "Column2": null,
+     "wejscie": "49",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -441,8 +441,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 50,
+     "Column2": null,
+     "wejscie": "50",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -450,8 +450,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 51,
+     "Column2": null,
+     "wejscie": "51",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -459,8 +459,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 52,
+     "Column2": null,
+     "wejscie": "52",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -468,8 +468,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 53,
+     "Column2": null,
+     "wejscie": "53",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -477,8 +477,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 54,
+     "Column2": null,
+     "wejscie": "54",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Kąty Rybackie",
@@ -486,8 +486,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 55,
+     "Column2": null,
+     "wejscie": "55",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -495,8 +495,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 56,
+     "Column2": null,
+     "wejscie": "56",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -504,8 +504,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 57,
+     "Column2": null,
+     "wejscie": "57",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -513,8 +513,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 58,
+     "Column2": null,
+     "wejscie": "58",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -522,8 +522,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 59,
+     "Column2": null,
+     "wejscie": "59",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -531,8 +531,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 60,
+     "Column2": null,
+     "wejscie": "60",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -540,8 +540,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 61,
+     "Column2": null,
+     "wejscie": "61",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -549,8 +549,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 62,
+     "Column2": null,
+     "wejscie": "62",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -558,8 +558,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 63,
+     "Column2": null,
+     "wejscie": "63",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Sztutowo",
@@ -567,8 +567,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 64,
+     "Column2": null,
+     "wejscie": "64",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -576,8 +576,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 65,
+     "Column2": null,
+     "wejscie": "65",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -585,8 +585,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 66,
+     "Column2": null,
+     "wejscie": "66",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -594,8 +594,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 67,
+     "Column2": null,
+     "wejscie": "67",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -603,8 +603,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 68,
+     "Column2": null,
+     "wejscie": "68",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -612,8 +612,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 69,
+     "Column2": null,
+     "wejscie": "69",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -621,8 +621,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 70,
+     "Column2": null,
+     "wejscie": "70",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -630,8 +630,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 71,
+     "Column2": null,
+     "wejscie": "71",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -639,8 +639,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 72,
+     "Column2": null,
+     "wejscie": "72",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Stegna",
@@ -648,8 +648,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 73,
+     "Column2": null,
+     "wejscie": "73",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Junoszyno",
@@ -657,8 +657,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 74,
+     "Column2": null,
+     "wejscie": "74",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Junoszyno",
@@ -666,8 +666,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 75,
+     "Column2": null,
+     "wejscie": "75",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Junoszyno",
@@ -675,8 +675,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 76,
+     "Column2": null,
+     "wejscie": "76",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Jantar",
@@ -684,8 +684,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 77,
+     "Column2": null,
+     "wejscie": "77",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Jantar",
@@ -693,8 +693,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 78,
+     "Column2": null,
+     "wejscie": "78",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Jantar",
@@ -702,8 +702,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 79,
+     "Column2": null,
+     "wejscie": "79",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Jantar",
@@ -711,8 +711,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 80,
+     "Column2": null,
+     "wejscie": "80",
      "ulica": "Morska",
      "nr_budynku": null,
      "miejscowosc": "Jantar",
@@ -720,8 +720,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 81,
+     "Column2": null,
+     "wejscie": "81",
      "ulica": "Bursztynowa",
      "nr_budynku": null,
      "miejscowosc": "Jantar",
@@ -729,8 +729,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 82,
+     "Column2": null,
+     "wejscie": "82",
      "ulica": "Bursztynowa",
      "nr_budynku": null,
      "miejscowosc": "Jantar",
@@ -738,8 +738,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 83,
+     "Column2": null,
+     "wejscie": "83",
      "ulica": "Bursztynowa",
      "nr_budynku": null,
      "miejscowosc": "Jantar",
@@ -747,8 +747,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 84,
+     "Column2": null,
+     "wejscie": "84",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Jantar-Leśniczówka",
@@ -756,8 +756,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 85,
+     "Column2": null,
+     "wejscie": "85",
      "ulica": "Gdańska",
      "nr_budynku": null,
      "miejscowosc": "Jantar-Leśniczówka",
@@ -765,8 +765,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 86,
+     "Column2": null,
+     "wejscie": "86",
      "ulica": "Wczasowa",
      "nr_budynku": null,
      "miejscowosc": "Mikoszewo",
@@ -774,8 +774,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 87,
+     "Column2": null,
+     "wejscie": "87",
      "ulica": "Bursztynowa",
      "nr_budynku": null,
      "miejscowosc": "Mikoszewo",
@@ -783,8 +783,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 88,
+     "Column2": null,
+     "wejscie": "88",
      "ulica": "Bursztynowa",
      "nr_budynku": null,
      "miejscowosc": "Mikoszewo",
@@ -792,8 +792,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 89,
+     "Column2": null,
+     "wejscie": "89",
      "ulica": "Bursztynowa",
      "nr_budynku": null,
      "miejscowosc": "Mikoszewo",
@@ -801,8 +801,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 90,
+     "Column2": null,
+     "wejscie": "90",
      "ulica": "Brzegowa",
      "nr_budynku": null,
      "miejscowosc": "Mikoszewo",
@@ -810,8 +810,8 @@
      "powiat": "nowodworski"
     },
     {
-       "Column2": null,
-     "wejscie": 1,
+     "Column2": null,
+     "wejscie": "1",
      "ulica": "Świbnieńska",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -819,8 +819,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 2,
+     "Column2": null,
+     "wejscie": "2",
      "ulica": "Świbnieńska",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -828,8 +828,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 3,
+     "Column2": null,
+     "wejscie": "3",
      "ulica": "Wiosłowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -837,8 +837,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 4,
+     "Column2": null,
+     "wejscie": "4",
      "ulica": "Wiosłowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -846,8 +846,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 5,
+     "Column2": null,
+     "wejscie": "5",
      "ulica": "Wiosłowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -855,8 +855,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 6,
+     "Column2": null,
+     "wejscie": "6",
      "ulica": "Wiosłowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -864,8 +864,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 7,
+     "Column2": null,
+     "wejscie": "7",
      "ulica": "Trałowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -873,8 +873,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 8,
+     "Column2": null,
+     "wejscie": "8",
      "ulica": "Mieczysława Boguckiego",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -882,8 +882,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 9,
+     "Column2": null,
+     "wejscie": "9",
      "ulica": "Begoniowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -891,8 +891,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 10,
+     "Column2": null,
+     "wejscie": "10",
      "ulica": "Lazurowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -900,8 +900,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 11,
+     "Column2": null,
+     "wejscie": "11",
      "ulica": "Lazurowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -909,8 +909,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 12,
+     "Column2": null,
+     "wejscie": "12",
      "ulica": "Turystyczna",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -918,8 +918,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 13,
+     "Column2": null,
+     "wejscie": "13",
      "ulica": "Falowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -927,8 +927,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 14,
+     "Column2": null,
+     "wejscie": "14",
      "ulica": "Falowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -936,8 +936,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 15,
+     "Column2": null,
+     "wejscie": "15",
      "ulica": "Falowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -945,8 +945,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 16,
+     "Column2": null,
+     "wejscie": "16",
      "ulica": "Falowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -954,8 +954,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 17,
+     "Column2": null,
+     "wejscie": "17",
      "ulica": "Ksieżycowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -963,8 +963,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 18,
+     "Column2": null,
+     "wejscie": "18",
      "ulica": "Sobieszewska",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -972,8 +972,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 19,
+     "Column2": null,
+     "wejscie": "19",
      "ulica": "Sobieszewska",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -981,8 +981,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 20,
+     "Column2": null,
+     "wejscie": "20",
      "ulica": "Stogi",
      "nr_budynku": 24,
      "miejscowosc": "Gdańsk",
@@ -990,8 +990,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 21,
+     "Column2": null,
+     "wejscie": "21",
      "ulica": "Stogi",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -999,8 +999,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 22,
+     "Column2": null,
+     "wejscie": "22",
      "ulica": "Wyciąg",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1008,8 +1008,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 23,
+     "Column2": null,
+     "wejscie": "23",
      "ulica": "Kępna",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1017,8 +1017,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 24,
+     "Column2": null,
+     "wejscie": "24",
      "ulica": "Kępna",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1026,8 +1026,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 25,
+     "Column2": null,
+     "wejscie": "25",
      "ulica": "Wydmy",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1035,8 +1035,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 26,
+     "Column2": null,
+     "wejscie": "26",
      "ulica": "Wydmy",
      "nr_budynku": "1A",
      "miejscowosc": "Gdańsk",
@@ -1044,8 +1044,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 27,
+     "Column2": null,
+     "wejscie": "27",
      "ulica": "Wydmy",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1053,8 +1053,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 28,
+     "Column2": null,
+     "wejscie": "28",
      "ulica": "Wydmy",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1062,8 +1062,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 36,
+     "Column2": null,
+     "wejscie": "36",
      "ulica": "Ignacego Karasickiego",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1071,8 +1071,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 37,
+     "Column2": null,
+     "wejscie": "37",
      "ulica": "Ignacego Karasickiego",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1080,8 +1080,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 38,
+     "Column2": null,
+     "wejscie": "38",
      "ulica": "Ignacego Karasickiego",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1089,8 +1089,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 39,
+     "Column2": null,
+     "wejscie": "39",
      "ulica": "Ignacego Karasickiego",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1098,8 +1098,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 40,
+     "Column2": null,
+     "wejscie": "40",
      "ulica": "Zdrojowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1107,8 +1107,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 41,
+     "Column2": null,
+     "wejscie": "41",
      "ulica": "Zdrojowa",
      "nr_budynku": 2,
      "miejscowosc": "Gdańsk",
@@ -1116,8 +1116,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 42,
+     "Column2": null,
+     "wejscie": "42",
      "ulica": "Południowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1125,8 +1125,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 43,
+     "Column2": null,
+     "wejscie": "43",
      "ulica": "Miła",
      "nr_budynku": 16,
      "miejscowosc": "Gdańsk",
@@ -1134,8 +1134,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 44,
+     "Column2": null,
+     "wejscie": "44",
      "ulica": "Miła",
      "nr_budynku": 10,
      "miejscowosc": "Gdańsk",
@@ -1143,8 +1143,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 45,
+     "Column2": null,
+     "wejscie": "45",
      "ulica": "Brzeźnieńska",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1152,8 +1152,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 46,
+     "Column2": null,
+     "wejscie": "46",
      "ulica": "Oksywska",
      "nr_budynku": 2,
      "miejscowosc": "Gdańsk",
@@ -1161,8 +1161,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 47,
+     "Column2": null,
+     "wejscie": "47",
      "ulica": "Młodzieży Polskiej",
      "nr_budynku": 10,
      "miejscowosc": "Gdańsk",
@@ -1170,8 +1170,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 48,
+     "Column2": null,
+     "wejscie": "48",
      "ulica": "Północna",
      "nr_budynku": 13,
      "miejscowosc": "Gdańsk",
@@ -1179,8 +1179,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 49,
+     "Column2": null,
+     "wejscie": "49",
      "ulica": "Brzeźnieńska",
      "nr_budynku": 18,
      "miejscowosc": "Gdańsk",
@@ -1188,8 +1188,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 50,
+     "Column2": null,
+     "wejscie": "50",
      "ulica": "Aleja gen. Józefa Hallera",
      "nr_budynku": 278,
      "miejscowosc": "Gdańsk",
@@ -1197,8 +1197,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 51,
+     "Column2": null,
+     "wejscie": "51",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1206,8 +1206,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 52,
+     "Column2": null,
+     "wejscie": "52",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1215,8 +1215,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 53,
+     "Column2": null,
+     "wejscie": "53",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1224,8 +1224,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 54,
+     "Column2": null,
+     "wejscie": "54",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1233,8 +1233,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 55,
+     "Column2": null,
+     "wejscie": "55",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1242,8 +1242,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 56,
+     "Column2": null,
+     "wejscie": "56",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1251,8 +1251,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 57,
+     "Column2": null,
+     "wejscie": "57",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1260,8 +1260,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 58,
+     "Column2": null,
+     "wejscie": "58",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1269,8 +1269,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 59,
+     "Column2": null,
+     "wejscie": "59",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1278,8 +1278,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 60,
+     "Column2": null,
+     "wejscie": "60",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1287,8 +1287,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 61,
+     "Column2": null,
+     "wejscie": "61",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1296,8 +1296,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 62,
+     "Column2": null,
+     "wejscie": "62",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1305,8 +1305,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 63,
+     "Column2": null,
+     "wejscie": "63",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1314,8 +1314,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 64,
+     "Column2": null,
+     "wejscie": "64",
      "ulica": "Bałtycka",
      "nr_budynku": 14,
      "miejscowosc": "Gdańsk",
@@ -1323,8 +1323,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 65,
+     "Column2": null,
+     "wejscie": "65",
      "ulica": "Bałtycka",
      "nr_budynku": 9,
      "miejscowosc": "Gdańsk",
@@ -1332,8 +1332,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 66,
+     "Column2": null,
+     "wejscie": "66",
      "ulica": "Jantarowa",
      "nr_budynku": 5,
      "miejscowosc": "Gdańsk",
@@ -1341,8 +1341,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 67,
+     "Column2": null,
+     "wejscie": "67",
      "ulica": "Jantarowa",
      "nr_budynku": 5,
      "miejscowosc": "Gdańsk",
@@ -1350,8 +1350,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 68,
+     "Column2": null,
+     "wejscie": "68",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1359,8 +1359,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 69,
+     "Column2": null,
+     "wejscie": "69",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1368,8 +1368,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 70,
+     "Column2": null,
+     "wejscie": "70",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1377,8 +1377,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 71,
+     "Column2": null,
+     "wejscie": "71",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1386,8 +1386,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 72,
+     "Column2": null,
+     "wejscie": "72",
      "ulica": "Jelitkowska",
      "nr_budynku": 2,
      "miejscowosc": "Gdańsk",
@@ -1395,8 +1395,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 73,
+     "Column2": null,
+     "wejscie": "73",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1404,8 +1404,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 74,
+     "Column2": null,
+     "wejscie": "74",
      "ulica": "Jelitkowska",
      "nr_budynku": 12,
      "miejscowosc": "Gdańsk",
@@ -1413,8 +1413,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 75,
+     "Column2": null,
+     "wejscie": "75",
      "ulica": "Jelitkowska",
      "nr_budynku": "14A",
      "miejscowosc": "Gdańsk",
@@ -1422,8 +1422,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 76,
+     "Column2": null,
+     "wejscie": "76",
      "ulica": "Jelitkowska",
      "nr_budynku": "14A",
      "miejscowosc": "Gdańsk",
@@ -1431,8 +1431,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 77,
+     "Column2": null,
+     "wejscie": "77",
      "ulica": "Jantarowa",
      "nr_budynku": null,
      "miejscowosc": "Gdańsk",
@@ -1440,8 +1440,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 78,
+     "Column2": null,
+     "wejscie": "78",
      "ulica": "Jelitkowska",
      "nr_budynku": 20,
      "miejscowosc": "Gdańsk",
@@ -1449,8 +1449,8 @@
      "powiat": "Gdańsk"
     },
     {
-       "Column2": null,
-     "wejscie": 45,
+     "Column2": null,
+     "wejscie": "45",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1458,8 +1458,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 44,
+     "Column2": null,
+     "wejscie": "44",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1467,8 +1467,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 43,
+     "Column2": null,
+     "wejscie": "43",
      "ulica": "Hestii",
      "nr_budynku": 1,
      "miejscowosc": "Sopot",
@@ -1476,8 +1476,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 42,
+     "Column2": null,
+     "wejscie": "42",
      "ulica": "Hestii",
      "nr_budynku": 7,
      "miejscowosc": "Sopot",
@@ -1485,8 +1485,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 41,
+     "Column2": null,
+     "wejscie": "41",
      "ulica": "Hestii",
      "nr_budynku": 3,
      "miejscowosc": "Sopot",
@@ -1494,8 +1494,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 40,
+     "Column2": null,
+     "wejscie": "40",
      "ulica": "Hestii",
      "nr_budynku": 3,
      "miejscowosc": "Sopot",
@@ -1503,8 +1503,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 39,
+     "Column2": null,
+     "wejscie": "39",
      "ulica": "Bitwy pod Płowcami",
      "nr_budynku": "67C",
      "miejscowosc": "Sopot",
@@ -1512,8 +1512,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 38,
+     "Column2": null,
+     "wejscie": "38",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1521,8 +1521,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 37,
+     "Column2": null,
+     "wejscie": "37",
      "ulica": "Bitwy pod Płowcami",
      "nr_budynku": 59,
      "miejscowosc": "Sopot",
@@ -1530,8 +1530,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 36,
+     "Column2": null,
+     "wejscie": "36",
      "ulica": "Bitwy pod Płowcami",
      "nr_budynku": 59,
      "miejscowosc": "Sopot",
@@ -1539,8 +1539,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 35,
+     "Column2": null,
+     "wejscie": "35",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1548,8 +1548,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 34,
+     "Column2": null,
+     "wejscie": "34",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1557,8 +1557,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 33,
+     "Column2": null,
+     "wejscie": "33",
      "ulica": "Emilii Plater",
      "nr_budynku": 23,
      "miejscowosc": "Sopot",
@@ -1566,8 +1566,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 32,
+     "Column2": null,
+     "wejscie": "32",
      "ulica": "Emilii Plater",
      "nr_budynku": 17,
      "miejscowosc": "Sopot",
@@ -1575,8 +1575,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 31,
+     "Column2": null,
+     "wejscie": "31",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": 26,
      "miejscowosc": "Sopot",
@@ -1584,8 +1584,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 30,
+     "Column2": null,
+     "wejscie": "30",
      "ulica": "Jana Kilińskiego",
      "nr_budynku": 11,
      "miejscowosc": "Sopot",
@@ -1593,8 +1593,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 29,
+     "Column2": null,
+     "wejscie": "29",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": 29,
      "miejscowosc": "Sopot",
@@ -1602,8 +1602,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 28,
+     "Column2": null,
+     "wejscie": "28",
      "ulica": "Romualda Traugutta ",
      "nr_budynku": 8,
      "miejscowosc": "Sopot",
@@ -1611,8 +1611,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 27,
+     "Column2": null,
+     "wejscie": "27",
      "ulica": "Michała Drzymały",
      "nr_budynku": 11,
      "miejscowosc": "Sopot",
@@ -1620,8 +1620,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 26,
+     "Column2": null,
+     "wejscie": "26",
      "ulica": "Bolesława Chrobrego",
      "nr_budynku": 26,
      "miejscowosc": "Sopot",
@@ -1629,8 +1629,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 25,
+     "Column2": null,
+     "wejscie": "25",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": 1,
      "miejscowosc": "Sopot",
@@ -1638,8 +1638,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 24,
+     "Column2": null,
+     "wejscie": "24",
      "ulica": "Aleja Wojska Polskiego",
      "nr_budynku": 1,
      "miejscowosc": "Sopot",
@@ -1647,8 +1647,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 23,
+     "Column2": null,
+     "wejscie": "23",
      "ulica": "Plac Zdrojowy",
      "nr_budynku": 3,
      "miejscowosc": "Sopot",
@@ -1656,8 +1656,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 22,
+     "Column2": null,
+     "wejscie": "22",
      "ulica": "Powstańców Warszawy",
      "nr_budynku": "12-14",
      "miejscowosc": "Sopot",
@@ -1665,8 +1665,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 21,
+     "Column2": null,
+     "wejscie": "21",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": 2,
      "miejscowosc": "Sopot",
@@ -1674,8 +1674,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 20,
+     "Column2": null,
+     "wejscie": "20",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": 2,
      "miejscowosc": "Sopot",
@@ -1683,8 +1683,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 19,
+     "Column2": null,
+     "wejscie": "19",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": 10,
      "miejscowosc": "Sopot",
@@ -1692,8 +1692,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 18,
+     "Column2": null,
+     "wejscie": "18",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": 10,
      "miejscowosc": "Sopot",
@@ -1701,8 +1701,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 17,
+     "Column2": null,
+     "wejscie": "17",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": 14,
      "miejscowosc": "Sopot",
@@ -1710,8 +1710,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 16,
+     "Column2": null,
+     "wejscie": "16",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1719,8 +1719,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 15,
+     "Column2": null,
+     "wejscie": "15",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1728,8 +1728,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 14,
+     "Column2": null,
+     "wejscie": "14",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": 21,
      "miejscowosc": "Sopot",
@@ -1737,8 +1737,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 13,
+     "Column2": null,
+     "wejscie": "13",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": 21,
      "miejscowosc": "Sopot",
@@ -1746,8 +1746,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 12,
+     "Column2": null,
+     "wejscie": "12",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": 22,
      "miejscowosc": "Sopot",
@@ -1755,8 +1755,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 11,
+     "Column2": null,
+     "wejscie": "11",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1764,8 +1764,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 10,
+     "Column2": null,
+     "wejscie": "10",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1773,8 +1773,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 9,
+     "Column2": null,
+     "wejscie": "9",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1782,8 +1782,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 8,
+     "Column2": null,
+     "wejscie": "8",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1791,8 +1791,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 7,
+     "Column2": null,
+     "wejscie": "7",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1800,8 +1800,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 6,
+     "Column2": null,
+     "wejscie": "6",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1809,8 +1809,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 5,
+     "Column2": null,
+     "wejscie": "5",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1818,8 +1818,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 4,
+     "Column2": null,
+     "wejscie": "4",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1827,8 +1827,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 3,
+     "Column2": null,
+     "wejscie": "3",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1836,8 +1836,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 2,
+     "Column2": null,
+     "wejscie": "2",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1845,8 +1845,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 1,
+     "Column2": null,
+     "wejscie": "1",
      "ulica": "Aleja Franciszka Mamuszki",
      "nr_budynku": null,
      "miejscowosc": "Sopot",
@@ -1854,8 +1854,8 @@
      "powiat": "Sopot"
     },
     {
-       "Column2": null,
-     "wejscie": 20,
+     "Column2": null,
+     "wejscie": "20",
      "ulica": "Aleja Witolda Kukowskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1863,8 +1863,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 19,
+     "Column2": null,
+     "wejscie": "19",
      "ulica": "Aleja Witolda Kukowskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1872,8 +1872,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 18,
+     "Column2": null,
+     "wejscie": "18",
      "ulica": "Aleja Witolda Kukowskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1881,8 +1881,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 17,
+     "Column2": null,
+     "wejscie": "17",
      "ulica": "Przebendowskich",
      "nr_budynku": 3,
      "miejscowosc": "Gdynia",
@@ -1890,8 +1890,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 16,
+     "Column2": null,
+     "wejscie": "16",
      "ulica": "Orłowska",
      "nr_budynku": 13,
      "miejscowosc": "Gdynia",
@@ -1899,8 +1899,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 15,
+     "Column2": null,
+     "wejscie": "15",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": 2,
      "miejscowosc": "Gdynia",
@@ -1908,8 +1908,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 14,
+     "Column2": null,
+     "wejscie": "14",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1917,8 +1917,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 13,
+     "Column2": null,
+     "wejscie": "13",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1926,8 +1926,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 12,
+     "Column2": null,
+     "wejscie": "12",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1935,8 +1935,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 11,
+     "Column2": null,
+     "wejscie": "11",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1944,8 +1944,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 10,
+     "Column2": null,
+     "wejscie": "10",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1953,8 +1953,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 9,
+     "Column2": null,
+     "wejscie": "9",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1962,8 +1962,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 8,
+     "Column2": null,
+     "wejscie": "8",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1971,8 +1971,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 7,
+     "Column2": null,
+     "wejscie": "7",
      "ulica": "Bulwar Nadmorski Feliksa Nowowiejskiego",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -1980,8 +1980,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 6,
+     "Column2": null,
+     "wejscie": "6",
      "ulica": "Zawiszy Czarnego",
      "nr_budynku": 1,
      "miejscowosc": "Gdynia",
@@ -1989,8 +1989,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 5,
+     "Column2": null,
+     "wejscie": "5",
      "ulica": "Osada Rybacka",
      "nr_budynku": 24,
      "miejscowosc": "Gdynia",
@@ -1998,8 +1998,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 4,
+     "Column2": null,
+     "wejscie": "4",
      "ulica": "Osada Rybacka",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -2007,8 +2007,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 3,
+     "Column2": null,
+     "wejscie": "3",
      "ulica": "Rybaków",
      "nr_budynku": 11,
      "miejscowosc": "Gdynia",
@@ -2016,8 +2016,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 2,
+     "Column2": null,
+     "wejscie": "2",
      "ulica": "Rybaków",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -2025,8 +2025,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 1,
+     "Column2": null,
+     "wejscie": "1",
      "ulica": "Dedala",
      "nr_budynku": null,
      "miejscowosc": "Gdynia",
@@ -2034,8 +2034,8 @@
      "powiat": "Gdynia"
     },
     {
-       "Column2": null,
-     "wejscie": 1,
+     "Column2": null,
+     "wejscie": "1",
      "ulica": "Koralowa",
      "nr_budynku": null,
      "miejscowosc": "Rewa",
@@ -2043,8 +2043,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": null,
-     "wejscie": 2,
+     "Column2": null,
+     "wejscie": "2",
      "ulica": "Rybacka",
      "nr_budynku": 2,
      "miejscowosc": "Rewa",
@@ -2052,8 +2052,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": null,
-     "wejscie": 3,
+     "Column2": null,
+     "wejscie": "3",
      "ulica": "Sztormowa ",
      "nr_budynku": 2,
      "miejscowosc": "Rewa",
@@ -2061,8 +2061,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": null,
-     "wejscie": 4,
+     "Column2": null,
+     "wejscie": "4",
      "ulica": "Rybacka",
      "nr_budynku": null,
      "miejscowosc": "Rewa",
@@ -2070,8 +2070,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": null,
-     "wejscie": 5,
+     "Column2": null,
+     "wejscie": "5",
      "ulica": "Rybacka",
      "nr_budynku": null,
      "miejscowosc": "Rewa",
@@ -2079,8 +2079,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": null,
-     "wejscie": 6,
+     "Column2": null,
+     "wejscie": "6",
      "ulica": "Rybacka",
      "nr_budynku": null,
      "miejscowosc": "Rewa",
@@ -2088,8 +2088,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": null,
-     "wejscie": 7,
+     "Column2": null,
+     "wejscie": "7",
      "ulica": "Morska",
      "nr_budynku": 2,
      "miejscowosc": "Rewa",
@@ -2097,8 +2097,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": null,
-     "wejscie": 8,
+     "Column2": null,
+     "wejscie": "8",
      "ulica": "Bursztynowa",
      "nr_budynku": null,
      "miejscowosc": "Rewa",
@@ -2106,8 +2106,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 1,
+     "Column2": "Chałupy",
+     "wejscie": "1",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2115,8 +2115,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 2,
+     "Column2": "Chałupy",
+     "wejscie": "2",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2124,8 +2124,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 3,
+     "Column2": "Chałupy",
+     "wejscie": "3",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2133,8 +2133,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 4,
+     "Column2": "Chałupy",
+     "wejscie": "4",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2142,8 +2142,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 5,
+     "Column2": "Chałupy",
+     "wejscie": "5",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2151,8 +2151,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 6,
+     "Column2": "Chałupy",
+     "wejscie": "6",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2160,8 +2160,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 7,
+     "Column2": "Chałupy",
+     "wejscie": "7",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2169,8 +2169,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 8,
+     "Column2": "Chałupy",
+     "wejscie": "8",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2178,8 +2178,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 9,
+     "Column2": "Chałupy",
+     "wejscie": "9",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2187,8 +2187,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 10,
+     "Column2": "Chałupy",
+     "wejscie": "10",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2196,8 +2196,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 11,
+     "Column2": "Chałupy",
+     "wejscie": "11",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2205,8 +2205,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 12,
+     "Column2": "Chałupy",
+     "wejscie": "12",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2214,8 +2214,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 13,
+     "Column2": "Chałupy",
+     "wejscie": "13",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2223,8 +2223,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 14,
+     "Column2": "Chałupy",
+     "wejscie": "14",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2232,8 +2232,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 15,
+     "Column2": "Chałupy",
+     "wejscie": "15",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2241,8 +2241,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 16,
+     "Column2": "Chałupy",
+     "wejscie": "16",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2250,8 +2250,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 17,
+     "Column2": "Chałupy",
+     "wejscie": "17",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2259,8 +2259,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 18,
+     "Column2": "Chałupy",
+     "wejscie": "18",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Władysławowo",
@@ -2268,8 +2268,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 19,
+     "Column2": "Chałupy",
+     "wejscie": "19",
      "ulica": 1,
      "nr_budynku": "Kaperska",
      "miejscowosc": "Chałupy",
@@ -2277,8 +2277,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 20,
+     "Column2": "Chałupy",
+     "wejscie": "20",
      "ulica": 6,
      "nr_budynku": "Bosmańska",
      "miejscowosc": "Chałupy",
@@ -2286,8 +2286,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 21,
+     "Column2": "Chałupy",
+     "wejscie": "21",
      "ulica": 9,
      "nr_budynku": "Bosmańska",
      "miejscowosc": "Chałupy",
@@ -2295,8 +2295,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 22,
+     "Column2": "Chałupy",
+     "wejscie": "22",
      "ulica": 22,
      "nr_budynku": null,
      "miejscowosc": "Chałupy",
@@ -2304,8 +2304,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 23,
+     "Column2": "Chałupy",
+     "wejscie": "23",
      "ulica": 34,
      "nr_budynku": null,
      "miejscowosc": "Chałupy",
@@ -2313,8 +2313,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 24,
+     "Column2": "Chałupy",
+     "wejscie": "24",
      "ulica": 40,
      "nr_budynku": null,
      "miejscowosc": "Chałupy",
@@ -2322,8 +2322,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chałupy",
-     "wejscie": 25,
+     "Column2": "Chałupy",
+     "wejscie": "25",
      "ulica": null,
      "nr_budynku": "Kaperska",
      "miejscowosc": "Chałupy",
@@ -2331,8 +2331,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 26,
+     "Column2": "Kuźnica",
+     "wejscie": "26",
      "ulica": null,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2340,8 +2340,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 27,
+     "Column2": "Kuźnica",
+     "wejscie": "27",
      "ulica": null,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2349,8 +2349,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 28,
+     "Column2": "Kuźnica",
+     "wejscie": "28",
      "ulica": null,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2358,8 +2358,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 29,
+     "Column2": "Kuźnica",
+     "wejscie": "29",
      "ulica": null,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2367,8 +2367,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 30,
+     "Column2": "Kuźnica",
+     "wejscie": "30",
      "ulica": null,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2376,8 +2376,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 31,
+     "Column2": "Kuźnica",
+     "wejscie": "31",
      "ulica": null,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2385,8 +2385,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 32,
+     "Column2": "Kuźnica",
+     "wejscie": "32",
      "ulica": "17a",
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2394,8 +2394,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 33,
+     "Column2": "Kuźnica",
+     "wejscie": "33",
      "ulica": 37,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2403,8 +2403,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 34,
+     "Column2": "Kuźnica",
+     "wejscie": "34",
      "ulica": 47,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2412,8 +2412,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 35,
+     "Column2": "Kuźnica",
+     "wejscie": "35",
      "ulica": 11,
      "nr_budynku": "Morska",
      "miejscowosc": "Kuźnica",
@@ -2421,8 +2421,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 36,
+     "Column2": "Kuźnica",
+     "wejscie": "36",
      "ulica": 35,
      "nr_budynku": "Morska",
      "miejscowosc": "Kuźnica",
@@ -2430,8 +2430,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 37,
+     "Column2": "Kuźnica",
+     "wejscie": "37",
      "ulica": null,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2439,8 +2439,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Kuźnica",
-     "wejscie": 38,
+     "Column2": "Kuźnica",
+     "wejscie": "38",
      "ulica": null,
      "nr_budynku": "Helska",
      "miejscowosc": "Kuźnica",
@@ -2448,8 +2448,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 39,
+     "Column2": "Jastarnia",
+     "wejscie": "39",
      "ulica": null,
      "nr_budynku": "Adama Mickiewicza",
      "miejscowosc": "Jastarnia",
@@ -2457,8 +2457,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 40,
+     "Column2": "Jastarnia",
+     "wejscie": "40",
      "ulica": null,
      "nr_budynku": "Adama Mickiewicza",
      "miejscowosc": "Jastarnia",
@@ -2466,8 +2466,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 41,
+     "Column2": "Jastarnia",
+     "wejscie": "41",
      "ulica": 172,
      "nr_budynku": "Adama Mickiewicza",
      "miejscowosc": "Jastarnia",
@@ -2475,8 +2475,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 42,
+     "Column2": "Jastarnia",
+     "wejscie": "42",
      "ulica": 164,
      "nr_budynku": "Adama Mickiewicza",
      "miejscowosc": "Jastarnia",
@@ -2484,8 +2484,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 43,
+     "Column2": "Jastarnia",
+     "wejscie": "43",
      "ulica": "162a",
      "nr_budynku": "Adama Mickiewicza",
      "miejscowosc": "Jastarnia",
@@ -2493,8 +2493,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 44,
+     "Column2": "Jastarnia",
+     "wejscie": "44",
      "ulica": 150,
      "nr_budynku": "Ogrodowa",
      "miejscowosc": "Jastarnia",
@@ -2502,8 +2502,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 45,
+     "Column2": "Jastarnia",
+     "wejscie": "45",
      "ulica": 58,
      "nr_budynku": "Ogrodowa",
      "miejscowosc": "Jastarnia",
@@ -2511,8 +2511,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 46,
+     "Column2": "Jastarnia",
+     "wejscie": "46",
      "ulica": null,
      "nr_budynku": "Bałtycka",
      "miejscowosc": "Jastarnia",
@@ -2520,8 +2520,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 47,
+     "Column2": "Jastarnia",
+     "wejscie": "47",
      "ulica": 7,
      "nr_budynku": "Nadmorska",
      "miejscowosc": "Jastarnia",
@@ -2529,8 +2529,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 48,
+     "Column2": "Jastarnia",
+     "wejscie": "48",
      "ulica": 4,
      "nr_budynku": "Plażowa",
      "miejscowosc": "Jastarnia",
@@ -2538,8 +2538,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 49,
+     "Column2": "Jastarnia",
+     "wejscie": "49",
      "ulica": null,
      "nr_budynku": "ks. Bernarda Sychty",
      "miejscowosc": "Jastarnia",
@@ -2547,8 +2547,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 50,
+     "Column2": "Jastarnia",
+     "wejscie": "50",
      "ulica": "2A",
      "nr_budynku": "Tadeusza Kościuszki",
      "miejscowosc": "Jastarnia",
@@ -2556,8 +2556,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 51,
+     "Column2": "Jastarnia",
+     "wejscie": "51",
      "ulica": 16,
      "nr_budynku": "Zdrojowa",
      "miejscowosc": "Jastarnia",
@@ -2565,8 +2565,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 52,
+     "Column2": "Jastarnia",
+     "wejscie": "52",
      "ulica": 15,
      "nr_budynku": "Leśna",
      "miejscowosc": "Jastarnia",
@@ -2574,8 +2574,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 53,
+     "Column2": "Jastarnia",
+     "wejscie": "53",
      "ulica": 21,
      "nr_budynku": "Wydmowa",
      "miejscowosc": "Jastarnia",
@@ -2583,8 +2583,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastarnia",
-     "wejscie": 54,
+     "Column2": "Jastarnia",
+     "wejscie": "54",
      "ulica": 4,
      "nr_budynku": "Adama Mickiewicza",
      "miejscowosc": "Jastarnia",
@@ -2593,8 +2593,8 @@
      "Column9": "Oczyszczalnia ścieków"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 55,
+     "Column2": "Jurata",
+     "wejscie": "55",
      "ulica": 1,
      "nr_budynku": "Adama Mickiewicza",
      "miejscowosc": "Jastarnia",
@@ -2602,8 +2602,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 56,
+     "Column2": "Jurata",
+     "wejscie": "56",
      "ulica": null,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Jurata",
@@ -2611,8 +2611,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 57,
+     "Column2": "Jurata",
+     "wejscie": "57",
      "ulica": null,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Jurata",
@@ -2620,8 +2620,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 58,
+     "Column2": "Jurata",
+     "wejscie": "58",
      "ulica": null,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Jurata",
@@ -2629,8 +2629,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 59,
+     "Column2": "Jurata",
+     "wejscie": "59",
      "ulica": 4,
      "nr_budynku": "Międzymorze",
      "miejscowosc": "Jurata",
@@ -2638,8 +2638,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 60,
+     "Column2": "Jurata",
+     "wejscie": "60",
      "ulica": 6,
      "nr_budynku": "Międzymorze",
      "miejscowosc": "Jurata",
@@ -2647,8 +2647,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 61,
+     "Column2": "Jurata",
+     "wejscie": "61",
      "ulica": 3,
      "nr_budynku": "Świętopełka",
      "miejscowosc": "Jurata",
@@ -2656,8 +2656,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 62,
+     "Column2": "Jurata",
+     "wejscie": "62",
      "ulica": 9,
      "nr_budynku": "Świętopełka",
      "miejscowosc": "Jurata",
@@ -2665,8 +2665,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jurata",
-     "wejscie": 63,
+     "Column2": "Jurata",
+     "wejscie": "63",
      "ulica": 65,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Jurata",
@@ -2674,8 +2674,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Hel",
-     "wejscie": 64,
+     "Column2": "Hel",
+     "wejscie": "64",
      "ulica": "14A",
      "nr_budynku": "Admirała Steyera",
      "miejscowosc": "Hel",
@@ -2683,8 +2683,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Hel",
-     "wejscie": 65,
+     "Column2": "Hel",
+     "wejscie": "65",
      "ulica": 30,
      "nr_budynku": "Admirała Steyera",
      "miejscowosc": "Hel",
@@ -2692,8 +2692,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Hel",
-     "wejscie": 66,
+     "Column2": "Hel",
+     "wejscie": "66",
      "ulica": 16,
      "nr_budynku": "Leśna",
      "miejscowosc": "Hel",
@@ -2701,8 +2701,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Hel",
-     "wejscie": 67,
+     "Column2": "Hel",
+     "wejscie": "67",
      "ulica": 5,
      "nr_budynku": "Kuracyjna",
      "miejscowosc": "Hel",
@@ -2710,8 +2710,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 1,
+     "Column2": "Władysławowo",
+     "wejscie": "1",
      "ulica": 15,
      "nr_budynku": "Hryniewieckiego",
      "miejscowosc": "Władysławowo",
@@ -2719,8 +2719,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 2,
+     "Column2": "Władysławowo",
+     "wejscie": "2",
      "ulica": "12B",
      "nr_budynku": "Hryniewieckiego",
      "miejscowosc": "Władysławowo",
@@ -2728,8 +2728,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 3,
+     "Column2": "Władysławowo",
+     "wejscie": "3",
      "ulica": 12,
      "nr_budynku": "Hryniewieckiego",
      "miejscowosc": "Władysławowo",
@@ -2737,8 +2737,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 4,
+     "Column2": "Władysławowo",
+     "wejscie": "4",
      "ulica": 7,
      "nr_budynku": "Hryniewieckiego",
      "miejscowosc": "Władysławowo",
@@ -2746,8 +2746,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 5,
+     "Column2": "Władysławowo",
+     "wejscie": "5",
      "ulica": "32h",
      "nr_budynku": "Morska",
      "miejscowosc": "Władysławowo",
@@ -2755,8 +2755,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 6,
+     "Column2": "Władysławowo",
+     "wejscie": "6",
      "ulica": 5,
      "nr_budynku": "Hryniewieckiego",
      "miejscowosc": "Władysławowo",
@@ -2764,8 +2764,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 7,
+     "Column2": "Władysławowo",
+     "wejscie": "7",
      "ulica": 2,
      "nr_budynku": "Hryniewieckiego",
      "miejscowosc": "Władysławowo",
@@ -2773,8 +2773,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 8,
+     "Column2": "Władysławowo",
+     "wejscie": "8",
      "ulica": 1,
      "nr_budynku": "Hryniewieckiego",
      "miejscowosc": "Władysławowo",
@@ -2782,8 +2782,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 9,
+     "Column2": "Władysławowo",
+     "wejscie": "9",
      "ulica": 5,
      "nr_budynku": "skwer Antoniego Abrahama",
      "miejscowosc": "Władysławowo",
@@ -2791,8 +2791,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 10,
+     "Column2": "Władysławowo",
+     "wejscie": "10",
      "ulica": 11,
      "nr_budynku": "Sportowa",
      "miejscowosc": "Władysławowo",
@@ -2800,8 +2800,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Władysławowo",
-     "wejscie": 11,
+     "Column2": "Władysławowo",
+     "wejscie": "11",
      "ulica": 11,
      "nr_budynku": "Sportowa",
      "miejscowosc": "Władysławowo",
@@ -2809,8 +2809,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chłapowo",
-     "wejscie": 12,
+     "Column2": "Chłapowo",
+     "wejscie": "12",
      "ulica": null,
      "nr_budynku": "Stefana Żeromskiego",
      "miejscowosc": "Chłapowo",
@@ -2818,8 +2818,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chłapowo",
-     "wejscie": 13,
+     "Column2": "Chłapowo",
+     "wejscie": "13",
      "ulica": 20,
      "nr_budynku": "Stefana Żeromskiego",
      "miejscowosc": "Chłapowo",
@@ -2827,8 +2827,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chłapowo",
-     "wejscie": 14,
+     "Column2": "Chłapowo",
+     "wejscie": "14",
      "ulica": 48,
      "nr_budynku": "Stefana Żeromskiego",
      "miejscowosc": "Chłapowo",
@@ -2836,8 +2836,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Chłapowo",
-     "wejscie": 15,
+     "Column2": "Chłapowo",
+     "wejscie": "15",
      "ulica": 27,
      "nr_budynku": "Stefana Żeromskiego",
      "miejscowosc": null,
@@ -2845,8 +2845,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Rozewie",
-     "wejscie": 16,
+     "Column2": "Rozewie",
+     "wejscie": "16",
      "ulica": 43,
      "nr_budynku": "Stefana Żeromskiego",
      "miejscowosc": "Chłapowo",
@@ -2854,8 +2854,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Rozewie",
-     "wejscie": 17,
+     "Column2": "Rozewie",
+     "wejscie": "17",
      "ulica": 3,
      "nr_budynku": "Leona Wzorka",
      "miejscowosc": "Rozewie",
@@ -2863,8 +2863,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 18,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "18",
      "ulica": 5,
      "nr_budynku": "Klifowa",
      "miejscowosc": "Jastrzębia Góra",
@@ -2872,8 +2872,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 19,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "19",
      "ulica": 7,
      "nr_budynku": "Rozewska",
      "miejscowosc": "Jastrzębia Góra",
@@ -2881,8 +2881,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 20,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "20",
      "ulica": 40,
      "nr_budynku": "Rozewska",
      "miejscowosc": "Jastrzębia Góra",
@@ -2890,8 +2890,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 21,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "21",
      "ulica": 1,
      "nr_budynku": "prof. Krzysztofa Pendereskiego",
      "miejscowosc": "Jastrzębia Góra",
@@ -2899,8 +2899,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 22,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "22",
      "ulica": 22,
      "nr_budynku": "Rozewska",
      "miejscowosc": "Jastrzębia Góra",
@@ -2908,8 +2908,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 23,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "23",
      "ulica": "4a",
      "nr_budynku": "Rozewska",
      "miejscowosc": "Jastrzębia Góra",
@@ -2917,8 +2917,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 24,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "24",
      "ulica": 7,
      "nr_budynku": "Słowackiego",
      "miejscowosc": "Jastrzębia Góra",
@@ -2926,8 +2926,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 25,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "25",
      "ulica": 35,
      "nr_budynku": "Bałtycka",
      "miejscowosc": "Jastrzębia Góra",
@@ -2935,8 +2935,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Jastrzębia Góra",
-     "wejscie": 26,
+     "Column2": "Jastrzębia Góra",
+     "wejscie": "26",
      "ulica": null,
      "nr_budynku": "Królewska",
      "miejscowosc": "Jastrzębia Góra",
@@ -2944,8 +2944,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 27,
+     "Column2": "Ostrowo",
+     "wejscie": "27",
      "ulica": null,
      "nr_budynku": "Królewska",
      "miejscowosc": "Jastrzębia Góra",
@@ -2953,8 +2953,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 28,
+     "Column2": "Ostrowo",
+     "wejscie": "28",
      "ulica": 7,
      "nr_budynku": "Putski",
      "miejscowosc": "Ostrowo",
@@ -2962,8 +2962,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 29,
+     "Column2": "Ostrowo",
+     "wejscie": "29",
      "ulica": 7,
      "nr_budynku": null,
      "miejscowosc": "Ostrowo",
@@ -2971,8 +2971,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 30,
+     "Column2": "Ostrowo",
+     "wejscie": "30",
      "ulica": 7,
      "nr_budynku": null,
      "miejscowosc": "Ostrowo",
@@ -2980,8 +2980,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 31,
+     "Column2": "Ostrowo",
+     "wejscie": "31",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Ostrowo",
@@ -2989,8 +2989,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 32,
+     "Column2": "Ostrowo",
+     "wejscie": "32",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Ostrowo",
@@ -2998,8 +2998,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 33,
+     "Column2": "Ostrowo",
+     "wejscie": "33",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Ostrowo",
@@ -3007,8 +3007,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 34,
+     "Column2": "Ostrowo",
+     "wejscie": "34",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Ostrowo",
@@ -3016,8 +3016,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 35,
+     "Column2": "Ostrowo",
+     "wejscie": "35",
      "ulica": null,
      "nr_budynku": "Plażowa",
      "miejscowosc": "Ostrowo",
@@ -3025,8 +3025,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 36,
+     "Column2": "Ostrowo",
+     "wejscie": "36",
      "ulica": null,
      "nr_budynku": "Plażowa",
      "miejscowosc": "Ostrowo",
@@ -3034,8 +3034,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 37,
+     "Column2": "Ostrowo",
+     "wejscie": "37",
      "ulica": null,
      "nr_budynku": "Plażowa",
      "miejscowosc": "Ostrowo",
@@ -3043,8 +3043,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Ostrowo",
-     "wejscie": 38,
+     "Column2": "Ostrowo",
+     "wejscie": "38",
      "ulica": null,
      "nr_budynku": "Plażowa",
      "miejscowosc": "Ostrowo",
@@ -3052,8 +3052,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 39,
+     "Column2": "Karwia",
+     "wejscie": "39",
      "ulica": "1H",
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Karwia",
@@ -3061,8 +3061,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 40,
+     "Column2": "Karwia",
+     "wejscie": "40",
      "ulica": "1H",
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Karwia",
@@ -3070,8 +3070,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 41,
+     "Column2": "Karwia",
+     "wejscie": "41",
      "ulica": 13,
      "nr_budynku": "Nadbałtycka",
      "miejscowosc": "Karwia",
@@ -3079,8 +3079,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 42,
+     "Column2": "Karwia",
+     "wejscie": "42",
      "ulica": 1,
      "nr_budynku": "Miła",
      "miejscowosc": "Karwia",
@@ -3088,8 +3088,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 43,
+     "Column2": "Karwia",
+     "wejscie": "43",
      "ulica": 23,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Karwia",
@@ -3097,8 +3097,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 44,
+     "Column2": "Karwia",
+     "wejscie": "44",
      "ulica": 4,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Karwia",
@@ -3106,8 +3106,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 45,
+     "Column2": "Karwia",
+     "wejscie": "45",
      "ulica": 20,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Karwia",
@@ -3115,8 +3115,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 46,
+     "Column2": "Karwia",
+     "wejscie": "46",
      "ulica": 32,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Karwia",
@@ -3124,8 +3124,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 47,
+     "Column2": "Karwia",
+     "wejscie": "47",
      "ulica": 77,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Karwia",
@@ -3133,8 +3133,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwia",
-     "wejscie": 48,
+     "Column2": "Karwia",
+     "wejscie": "48",
      "ulica": 79,
      "nr_budynku": "Wojska Polskiego",
      "miejscowosc": "Karwia",
@@ -3142,8 +3142,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 1,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "1",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3151,8 +3151,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 2,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "2",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3160,8 +3160,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 3,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "3",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3169,8 +3169,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 4,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "4",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3178,8 +3178,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 5,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "5",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3187,8 +3187,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 6,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "6",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3196,8 +3196,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 7,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "7",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3205,8 +3205,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 8,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "8",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3214,8 +3214,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 9,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "9",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3223,8 +3223,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 10,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "10",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3232,8 +3232,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 11,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "11",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3241,8 +3241,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 12,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "12",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3250,8 +3250,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 13,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "13",
      "ulica": null,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3259,8 +3259,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 14,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "14",
      "ulica": 260,
      "nr_budynku": "Wczasowa",
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3268,8 +3268,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 15,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "15",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3277,8 +3277,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Karwieńskie Błota",
-     "wejscie": 16,
+     "Column2": "Karwieńskie Błota",
+     "wejscie": "16",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Karwieńskie Błoto Drugie",
@@ -3286,8 +3286,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 1,
+     "Column2": "Dębki",
+     "wejscie": "1",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3295,8 +3295,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 2,
+     "Column2": "Dębki",
+     "wejscie": "2",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3304,8 +3304,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 3,
+     "Column2": "Dębki",
+     "wejscie": "3",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3313,8 +3313,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 4,
+     "Column2": "Dębki",
+     "wejscie": "4",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3322,8 +3322,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 5,
+     "Column2": "Dębki",
+     "wejscie": "5",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3331,8 +3331,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 6,
+     "Column2": "Dębki",
+     "wejscie": "6",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3340,8 +3340,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 7,
+     "Column2": "Dębki",
+     "wejscie": "7",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3349,8 +3349,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 8,
+     "Column2": "Dębki",
+     "wejscie": "8",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3358,8 +3358,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 9,
+     "Column2": "Dębki",
+     "wejscie": "9",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3367,8 +3367,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 10,
+     "Column2": "Dębki",
+     "wejscie": "10",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3376,8 +3376,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 11,
+     "Column2": "Dębki",
+     "wejscie": "11",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3385,8 +3385,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 12,
+     "Column2": "Dębki",
+     "wejscie": "12",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3394,8 +3394,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 13,
+     "Column2": "Dębki",
+     "wejscie": "13",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3403,8 +3403,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 14,
+     "Column2": "Dębki",
+     "wejscie": "14",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3412,8 +3412,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 15,
+     "Column2": "Dębki",
+     "wejscie": "15",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3421,8 +3421,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 16,
+     "Column2": "Dębki",
+     "wejscie": "16",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3430,8 +3430,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 17,
+     "Column2": "Dębki",
+     "wejscie": "17",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3439,8 +3439,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 18,
+     "Column2": "Dębki",
+     "wejscie": "18",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3448,8 +3448,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 19,
+     "Column2": "Dębki",
+     "wejscie": "19",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3457,8 +3457,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 20,
+     "Column2": "Dębki",
+     "wejscie": "20",
      "ulica": 34,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3466,8 +3466,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 21,
+     "Column2": "Dębki",
+     "wejscie": "21",
      "ulica": 62,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3475,8 +3475,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 22,
+     "Column2": "Dębki",
+     "wejscie": "22",
      "ulica": 78,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3484,8 +3484,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 23,
+     "Column2": "Dębki",
+     "wejscie": "23",
      "ulica": 82,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3493,8 +3493,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Dębki",
-     "wejscie": 24,
+     "Column2": "Dębki",
+     "wejscie": "24",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Dębki",
@@ -3502,8 +3502,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Wierzchucino",
-     "wejscie": 25,
+     "Column2": "Wierzchucino",
+     "wejscie": "25",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Wierzchucino",
@@ -3511,8 +3511,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Wierzchucino",
-     "wejscie": 26,
+     "Column2": "Wierzchucino",
+     "wejscie": "26",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Wierzchucino",
@@ -3520,8 +3520,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Wierzchucino",
-     "wejscie": 27,
+     "Column2": "Wierzchucino",
+     "wejscie": "27",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Wierzchucino",
@@ -3529,8 +3529,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Wierzchucino",
-     "wejscie": 28,
+     "Column2": "Wierzchucino",
+     "wejscie": "28",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Wierzchucino",
@@ -3538,8 +3538,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Wierzchucino",
-     "wejscie": 29,
+     "Column2": "Wierzchucino",
+     "wejscie": "29",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Wierzchucino",
@@ -3547,8 +3547,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Białogóra",
-     "wejscie": 30,
+     "Column2": "Białogóra",
+     "wejscie": "30",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Białogóra",
@@ -3556,8 +3556,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Białogóra",
-     "wejscie": 31,
+     "Column2": "Białogóra",
+     "wejscie": "31",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Białogóra",
@@ -3565,8 +3565,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Białogóra",
-     "wejscie": 32,
+     "Column2": "Białogóra",
+     "wejscie": "32",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Białogóra",
@@ -3574,8 +3574,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Białogóra",
-     "wejscie": 33,
+     "Column2": "Białogóra",
+     "wejscie": "33",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Białogóra",
@@ -3583,8 +3583,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Białogóra",
-     "wejscie": 34,
+     "Column2": "Białogóra",
+     "wejscie": "34",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Białogóra",
@@ -3592,8 +3592,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Białogóra",
-     "wejscie": 35,
+     "Column2": "Białogóra",
+     "wejscie": "35",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Białogóra",
@@ -3601,8 +3601,8 @@
      "powiat": "pucki"
     },
     {
-       "Column2": "Osieki",
-     "wejscie": 36,
+     "Column2": "Osieki",
+     "wejscie": "36",
      "ulica": null,
      "nr_budynku": "Spacerowa",
      "miejscowosc": "Lubiatowo",
@@ -3610,8 +3610,8 @@
      "powiat": "wejherowski"
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 37,
+     "Column2": "Lubiatowo",
+     "wejscie": "37",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Lubiatowo",
@@ -3619,8 +3619,8 @@
      "powiat": "wejherowski"
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 38,
+     "Column2": "Lubiatowo",
+     "wejscie": "38",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Lubiatowo",
@@ -3628,8 +3628,8 @@
      "powiat": null
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 39,
+     "Column2": "Lubiatowo",
+     "wejscie": "39",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Lubiatowo",
@@ -3637,8 +3637,8 @@
      "powiat": null
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 40,
+     "Column2": "Lubiatowo",
+     "wejscie": "40",
      "ulica": null,
      "nr_budynku": "Bałtycka",
      "miejscowosc": "Lubiatowo",
@@ -3646,8 +3646,8 @@
      "powiat": null
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 41,
+     "Column2": "Lubiatowo",
+     "wejscie": "41",
      "ulica": null,
      "nr_budynku": "Bałtycka",
      "miejscowosc": "Lubiatowo",
@@ -3655,8 +3655,8 @@
      "powiat": null
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 42,
+     "Column2": "Lubiatowo",
+     "wejscie": "42",
      "ulica": null,
      "nr_budynku": "Bałtycka",
      "miejscowosc": "Lubiatowo",
@@ -3664,8 +3664,8 @@
      "powiat": null
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 43,
+     "Column2": "Lubiatowo",
+     "wejscie": "43",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Lubiatowo",
@@ -3673,8 +3673,8 @@
      "powiat": null
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 44,
+     "Column2": "Lubiatowo",
+     "wejscie": "44",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Lubiatowo",
@@ -3682,8 +3682,8 @@
      "powiat": null
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 45,
+     "Column2": "Lubiatowo",
+     "wejscie": "45",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Lubiatowo",
@@ -3691,8 +3691,8 @@
      "powiat": null
     },
     {
-       "Column2": "Lubiatowo",
-     "wejscie": 46,
+     "Column2": "Lubiatowo",
+     "wejscie": "46",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Lubiatowo",
@@ -3700,8 +3700,8 @@
      "powiat": null
     },
     {
-       "Column2": "Słajszewo",
-     "wejscie": 47,
+     "Column2": "Słajszewo",
+     "wejscie": "47",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Słajszewo",
@@ -3709,8 +3709,8 @@
      "powiat": null
     },
     {
-       "Column2": "Słajszewo",
-     "wejscie": 48,
+     "Column2": "Słajszewo",
+     "wejscie": "48",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Słajszewo",
@@ -3718,8 +3718,8 @@
      "powiat": null
     },
     {
-       "Column2": "Słajszewo",
-     "wejscie": 49,
+     "Column2": "Słajszewo",
+     "wejscie": "49",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": "Słajszewo",
@@ -3727,8 +3727,8 @@
      "powiat": null
     },
     {
-       "Column2": "Stilo",
-     "wejscie": 50,
+     "Column2": "Stilo",
+     "wejscie": "50",
      "ulica": null,
      "nr_budynku": "Latarników",
      "miejscowosc": "Sasino",
@@ -3736,8 +3736,8 @@
      "powiat": null
     },
     {
-       "Column2": "Stilo",
-     "wejscie": 51,
+     "Column2": "Stilo",
+     "wejscie": "51",
      "ulica": null,
      "nr_budynku": "Latarników",
      "miejscowosc": "Sasino",
@@ -3745,8 +3745,8 @@
      "powiat": null
     },
     {
-       "Column2": "Stilo",
-     "wejscie": 52,
+     "Column2": "Stilo",
+     "wejscie": "52",
      "ulica": null,
      "nr_budynku": "Latarników",
      "miejscowosc": "Sasino",
@@ -3754,8 +3754,8 @@
      "powiat": null
     },
     {
-       "Column2": "Stilo",
-     "wejscie": 53,
+     "Column2": "Stilo",
+     "wejscie": "53",
      "ulica": null,
      "nr_budynku": "Latarników",
      "miejscowosc": "Sasino",
@@ -3763,8 +3763,8 @@
      "powiat": null
     },
     {
-       "Column2": "Ulinia",
-     "wejscie": 54,
+     "Column2": "Ulinia",
+     "wejscie": "54",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": null,
@@ -3772,8 +3772,8 @@
      "powiat": null
     },
     {
-       "Column2": "Ulinia",
-     "wejscie": 55,
+     "Column2": "Ulinia",
+     "wejscie": "55",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": null,
@@ -3781,8 +3781,8 @@
      "powiat": null
     },
     {
-       "Column2": "Ulinia",
-     "wejscie": 56,
+     "Column2": "Ulinia",
+     "wejscie": "56",
      "ulica": null,
      "nr_budynku": null,
      "miejscowosc": null,
