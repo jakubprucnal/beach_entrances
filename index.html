@@ -33,20 +33,20 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script>
       $('#search').keydown(function(){
-        $getJSON("data_beach_entrances.json",function(data){
+        $getJSON("/data_beach_entrances.json",function(data){
           var search = $('#search').val();
           var regex = new RegExp(search, 'i');
           var output;
           $.each(data, function(key,val){
             if((val.wejscie.search(regex) != -1) | (val.miejscowosc.search(regex) != -1)){
               output += "<tr>";
-              output += "<td id='"+key+"'>"+val.Column2+"</td>;
-              output += "<td id='"+key+"'>"+val.wejscie+"</td>;
-              output += "<td id='"+key+"'>"+val.ulica+"</td>;
-              output += "<td id='"+key+"'>"+val.nr+"</td>;
-              output += "<td id='"+key+"'>"+val.miejscowosc+"</td>;
-              output += "<td id='"+key+"'>"+val.gmina+"</td>;
-              output += "<td id='"+key+"'>"+val.powiat+"</td>;
+              output += "<td id='"+key+"'>"+val.Column2+"</td>";
+              output += "<td id='"+key+"'>"+val.wejscie+"</td>";
+              output += "<td id='"+key+"'>"+val.ulica+"</td>";
+              output += "<td id='"+key+"'>"+val.nr+"</td>";
+              output += "<td id='"+key+"'>"+val.miejscowosc+"</td>";
+              output += "<td id='"+key+"'>"+val.gmina+"</td>";
+              output += "<td id='"+key+"'>"+val.powiat+"</td>";
               output += "</tr>";
             }
           });
