@@ -45,7 +45,7 @@
             $('#result2').html('');
             var search = $('#search').val();
             var regex = new RegExp(search, "i");
-            $.getJSON('data.json',function(data) {
+            $.getJSON('data_beach_entrances.json',function(data) {
                 $.each(data, function(key, value) {
                     if (value.wejscie.search(regex) != -1 || value.miejscowosc.search(regex) != -1)
                     {
